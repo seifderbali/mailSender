@@ -1,0 +1,4 @@
+com/example/mail/Entities/MailSender.class
+com/example/mail/Services/MailSenderService.class
+com/example/mail/MailApplication.class
+com/example/mail/Controllers/MailSenderController.class
